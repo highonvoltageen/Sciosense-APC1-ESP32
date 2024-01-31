@@ -25,7 +25,9 @@ This Project supplies the neccessary code files to use the APC1 sensor from scio
       static_configs:
         - targets: ['YOUR_ESP_IP']</code>
   
+## Wiring
 
+![wiring diagram]([http://url/to/img.png](https://raw.githubusercontent.com/highonvoltageen/Sciosense-APC1-ESP32/main/connection.png))
   
 ## License
 
