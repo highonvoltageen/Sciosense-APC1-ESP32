@@ -4,7 +4,7 @@
 
 ## Project overview
 
-This Project supplies the neccessary code files to use the APC1 sensor from sciosense in combination with an ESP32 S2 Mini to gather air-quality data on a Prometheus server.
+This Project supplies the neccessary code files to use the APC1 sensor **(UART Version)** from sciosense in combination with an ESP32 S2 Mini to gather air-quality data on a Prometheus server.
 
 ## User Guide
  - If not done install the Arduino IDE from https://www.arduino.cc/en/software
