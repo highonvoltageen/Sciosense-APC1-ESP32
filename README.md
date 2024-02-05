@@ -26,6 +26,7 @@ This Project supplies the neccessary code files to use the APC1 sensor **(UART V
         - targets: ['YOUR_ESP_IP']</code>
   
 ## Wiring
+**This Project uses the UART Version of the APC1**
 
 ![wiring diagram](https://raw.githubusercontent.com/highonvoltageen/Sciosense-APC1-ESP32/main/connection.png)
   
