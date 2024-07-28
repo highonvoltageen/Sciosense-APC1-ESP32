@@ -10,7 +10,7 @@ This Project supplies the neccessary code files to use the APC1 sensor **(UART V
  - If not done install the Arduino IDE from https://www.arduino.cc/en/software
  - Add the ESP32 refference link "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json" under File > Preferences... > Additional boards manager URLs
  - Install the ESP32 hardware package under Tools > Board > Boards Manager... searching for esp32 by espressif
- - Add the ESPAsyncWebServer library by lacamera in the library manager
+ - Add the ESPAsyncWebServer library by dvarrel in the library manager
  - Add the ESPSoftwareSerial library by Dirk Kaar in the library manager
  - Download the APC1 library from https://github.com/sciosense/apc1-arduino and also add it
  - Clone or download this repository
